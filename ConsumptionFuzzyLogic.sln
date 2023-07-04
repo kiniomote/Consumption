@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumptionFuzzyLogic", "ConsumptionFuzzyLogic\ConsumptionFuzzyLogic.csproj", "{9E712F1B-790B-4082-A42A-A187C576655F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E712F1B-790B-4082-A42A-A187C576655F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E712F1B-790B-4082-A42A-A187C576655F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E712F1B-790B-4082-A42A-A187C576655F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E712F1B-790B-4082-A42A-A187C576655F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6490B09E-0E2A-4FFA-B959-77F30FE08E92}
+	EndGlobalSection
+EndGlobal
